@@ -401,8 +401,8 @@ Now, we're a veterinary practice.   Make up at least fifteen vet visits and use 
 
 We haven't discussed the first objective!  Based on what you've seen, what *are* the tradeoffs involved in using a NoSQL database like MongoDB instead of a relational database like PostgreSQL?
 
-
-
+[![Mongo Shell Quick Reference] (https://docs.mongodb.com/manual/reference/mongo-shell/)]
+[![Intro to MongoDB] (https://docs.mongodb.com/manual/introduction/)]
 
 
 
